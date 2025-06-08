@@ -1,0 +1,8 @@
+@import './base.css';
+@import 'tailwindcss';
+
+/* .active .nav-indicator {
+    width: 4rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(226 232 240 / var(--tw-bg-opacity));
+} */
